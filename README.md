@@ -23,5 +23,5 @@ Today I Leran
 - [并查集](LeetCode/并查集.md "并查集")
 
 ### Interview
-- [面试](Interview/面试.md "面试")
+- [Interview](Interview/Interview.md "Interview")
 - [Cache](Interview/Cache.md "Cache")
